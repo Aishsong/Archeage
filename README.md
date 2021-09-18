@@ -1,5 +1,5 @@
 # Archeage
 
-Hello everyone
+hello everyone
 
-Here is my personal practice project with language cpp
+here is my personal practice project with language cpp
